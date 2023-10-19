@@ -22,7 +22,7 @@
 
 ---
 
-### ZAP3: Zano Test
+### ZGP121: Zano Test
 
 **Description** This is our inaugural proposal, and it pertains to the commencement of the on-chain voting process among Zano holders
 
@@ -32,7 +32,7 @@
 
 ---
 
-### ZAP4: Zano Test
+### ZGP122: Zano Test
 
 **Description** This is our inaugural proposal, and it pertains to the commencement of the on-chain voting process among Zano holders
 
@@ -42,7 +42,7 @@
 
 ---
 
-### ZAP5: Zano Test
+### ZGP124: Zano Test
 
 **Description** This is our inaugural proposal, and it pertains to the commencement of the on-chain voting process among Zano holders
 
