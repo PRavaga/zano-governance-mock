@@ -8,7 +8,7 @@
 
 **Start** 2320000
 
-**End** 2350000
+**End** 2500000
 
 ---
 
@@ -16,6 +16,6 @@
 
 **Description** This is our inaugural proposal, and it pertains to the commencement of the on-chain voting process among Zano holders
 
-**Start** 3000000
+**Start** 2500000
 
-**End** 3050000
+**End** 3000000
